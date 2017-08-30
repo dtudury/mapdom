@@ -1,0 +1,12 @@
+{
+  "name": "mapdom",
+  "version": "1.0.0",
+  "description": "mapping language (and code) to transform dom to a regular object and back",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtudury/mapdom.git"
+  },
+  "homepage": "https://github.com/dtudury/mapdom#readme"
+}
